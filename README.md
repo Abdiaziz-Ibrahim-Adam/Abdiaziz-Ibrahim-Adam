@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zizo-1
 - 👀 I’m interested in coding and computer sceince
 - 🌱 I’m currently learning Computer sceince
-//- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via E-mail
 
 <!---
