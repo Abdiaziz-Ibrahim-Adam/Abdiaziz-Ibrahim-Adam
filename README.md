@@ -13,7 +13,7 @@ I'm a dedicated computer science student with a passion for exploring the art an
 
 - **Software Development:** Crafting efficient, secure, and scalable systems.
 - **Collaborative Projects:** Thriving on innovation and teamwork.
-- **Real-world Applications:** Eager to apply my skills in internships and practical projects.
+
 
 ---
 
